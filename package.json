@@ -1,0 +1,9 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "node ./server/server.js",
+    "react-app": "cd ./react-app && npm start"
+  },
+  "description": ""
+}
